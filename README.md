@@ -30,6 +30,11 @@ This demo shows how to use an Actuonix actuator with the Linear Actuator Control
 - **Configuring Stroke Length:**  
   In the script (line 5), update the variable `ACTUATOR_STROKE_LENGTH` to reflect the actual stroke length of your actuator (e.g., change to 50 mm if using an L16-50-150-12-P actuator).
 
+  <video width="640" controls>
+  <source src="actuonix actuator demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Additional Resources
 
